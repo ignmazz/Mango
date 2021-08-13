@@ -15,7 +15,7 @@
   "homepage": "https://github.com/mazzlabs/Mango#readme",
   "dependencies": {
     "canvas": "^2.8.0",
-    "discord.js": "^13.0.1",
+    "discord.js": "^13.1.0",
     "dotenv": "^10.0.0",
     "scratchlib": "^0.3.5",
     "sequelize": "^6.6.4",
