@@ -20,7 +20,7 @@
     "scratchlib": "^0.3.5",
     "sequelize": "^6.6.4",
     "sqlite3": "^5.0.2",
-    "systeminformation": "^5.7.7",
+    "systeminformation": "^5.8.6",
     "xmlhttprequest": "^1.8.0",
     "xmlhttprequest-ts": "^1.0.1"
   },
